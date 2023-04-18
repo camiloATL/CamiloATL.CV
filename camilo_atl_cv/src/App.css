@@ -1,0 +1,84 @@
+.App {
+  width: 350px;
+  height: 550px;
+  background-color: #253C59;
+  box-shadow: 0 0 10px #48CAD9;
+  border-radius: 15px;
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
+.foto {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  top: 20px;
+  left: 75px;
+}
+.foto img {
+  max-width: 100%;
+  height: auto;
+}
+.linea_horizontal {
+  border-top: 5px solid white;
+  width: 94%;
+  position: relative;
+  top: 30px;
+  left: 10px;
+  border-radius: 10px;
+
+}
+.linea_horizontal2 {
+  border-top: 1px solid white;
+  width: 95%;
+  position: relative;
+  border-radius: 10px;
+}
+.contacto {
+  position: relative;
+  top: 20px;
+  width: 45%;
+  margin: 0 auto;
+}
+.contactoStyle {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.correo {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.github {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.celular {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ubicacion {
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ajusteLinkedin {
+  width: 93%;
+  margin: 0 auto;
+  text-align: justify;
+  position: relative;
+  top: 7px;
+}
+.linkedin {
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
